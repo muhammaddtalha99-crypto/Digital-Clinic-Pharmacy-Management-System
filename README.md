@@ -30,7 +30,7 @@ This is a Digital Clinic and Pharmacy Management System developed in C++. The pr
 
 ### Patient Menu
 
-![Patient Menu](Screenshots/menu-patient-menu.PNG)
+![Patient Menu](Screenshots/main-patient-menu.PNG)
 
 ### Appointment Menu
 
